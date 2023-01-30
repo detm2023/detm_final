@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "daoesports-5a4cc",
+  "private_key_id": "540f2350012e9a1f22a0bf3c11b07bd2859f5c79",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6JvpzIC59sCiP\nvCDEJu6c51JVtAenOr8eD2yrBMIFUyZtn+BRIY4YDIGsinfgWbJZvv4NC2xUHy+u\n0Hxus1E8ig4hESLfhxwQjgqkRNtM3qWoqpywbCT4y022vZgBJvnjVcLPJtv6Y6mJ\nIjCzoC3xLsJOIRyZyLvvuyJjpmRvBb7/p2KfMFPtllUzrt5lahIgKuhEkkVVKcpl\nkM0bxLl6fUc87uj8pY/UtbtMOOQZp/y03epS38v6wD5Nwh+t9uYXlol96iWOgWD2\nQ8Hph6vcbBAjXPZTJLgDFZ879Z+R0GQbPJYB1EciZXAhlHPO3Q+G3eUq/dcZ2uZG\nPezMsTAtAgMBAAECggEABCAuB9QsQ5veYkUkosRMII0d7YlWbBXou3VTDr1FwZF0\nthRHh/TK7eyFCTpuaroCMmwBvG9G4NxqFaFISLnPsJxMsN3s3HBlplZHlRlzlNIQ\ncNsLKvvSm/MBj23HSys+eZPig+3UDUodLU1lL+36ZrCHHO0t8ZiZ1bfbjMLY0f8Q\nbcd1l+fd2srp9bJ18dHmUKbSA4UUK5ZnI9qOWiP2/DFcfNmQzAKu9kiX/MKgA/Ff\nY6IIUQHy7csvxAbMyf1ks/YRvizTI320iySNpdwt9TJ9N/r23vhgq+nEgoYWNcx6\nEoLM1GKSONtXqUnnpkrE1NzJj+QrLjbFkjm38lV9/wKBgQDcwJF6NSLCrKj/oTMl\nwGcXN5SY2kkQoQJlQ2PKr/IVMGufgvopCNljTE+UPmFLm7Bm50s+7Y8C1Tu6GIUD\n+kcJ4EyMUiEGD5yt0/GS1G/TyzPKw8YIH+i6em8m9+1vFIvmAjOq1O0FJcqT94w/\ny73cYOR6ubnId6wHliPBCc3V/wKBgQDX4BuR/Qz+JY+zwdHhqS5QNBXibx3Qvew5\nSmn0doShQ+1niPMjQSx/jSXcypV0QtsQB6kP2ZemB8yt8O5boPj4FrkqVeWesOMb\nf+Q9/ZgvPlk+gU8MLH48DO9cobDRP18g8/UH3wTvx6GN4xSjt/dvIzizuuWTXmyY\nMHKd9ewx0wKBgQDLmN+TssYofk4v1mDyBI4QH7bxcwHIUHeBJbI4EiZX3JymNYq7\npem5Z3xN4Wqi7Si4/8GqfDdWCYxYipzDmmVCepifInBKwsNinwNCxKOO1u8hp4ZR\nn/xpYNp7OlbGCFEvBgDZIiCoir5X0gyMGkE1rDeN6RWsCpOjO5omRACPyQKBgHql\nlsRgkqspx/UG3yloJynmDbDyFGxuGvGJt5zuYPgGUbEK+6hB9PgaxzIj3rmI6lC3\nKXQZ2bC4qa8BPUrNr+Wzc0v8NVLtiHotNQ2LMJVWxPlgGfr+pFGVv8BPFNgtOuzL\n7aClMnbQYpbsNuO1N1zrE+H5A0mw0d29WMEp4SGFAoGAE8VNT5F8vXCFhnCseBPI\nbxc1uBPx1NzZXXYi+E/kvwqCIZ7lBnU4mcLReOjEDnimZeuekINaqYWq24JWlmB5\n9A+sjCcliDPvVloSzVapVxhkaGt3/s8Wk8WLJeE4d80/tyyNZXbDGS3h0xRStqS+\nG0wvJ2sDv8gZEG06HBVL1ik=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-hg59r@daoesports-5a4cc.iam.gserviceaccount.com",
+  "client_id": "116161434537808905523",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-hg59r%40daoesports-5a4cc.iam.gserviceaccount.com"
+}
